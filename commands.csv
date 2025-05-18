@@ -1,0 +1,13 @@
+﻿Command,Description
+/start,Start the bot
+/help,Show help guide
+/model,List available AI models
+/setmodel [num],Set current model
+/notes,View all your notes
+/add_note [text],Save a new note
+/edit_note [num] [new_text],Edit a note
+/delete_note [num],Delete a specific note
+/clear_notes,Clear all notes
+/lang,Show available languages
+/setlang [it/en/ru],Change language
+📸 Send a photo,Auto reply
