@@ -28,6 +28,4 @@ pip install -r requirements.txt
 • Replace TOKEN = "your_token" in the script.
 • Get your Groq API key from Groq Cloud .
 • Run the bot:
-```bash
-
 python ai_telegram_bot.py
