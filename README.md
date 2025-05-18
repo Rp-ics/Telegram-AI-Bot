@@ -24,7 +24,7 @@
 
 ---
 
-[1;92m⚙️ QUANTUM INSTALLATION PROTOCOL[0m
+⚙️ QUANTUM INSTALLATION PROTOCOL
 
 ```bash
 # !/bin/sh
