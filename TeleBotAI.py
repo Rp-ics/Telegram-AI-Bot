@@ -46,7 +46,6 @@ translations = {
 /help → Mostra questa guida  
 /model → Mostra i modelli disponibili  
 /setmodel [num] → Imposta un modello  
-/chat [domanda] → Fai una domanda specifica  
 /add_note [testo] → Salva una nota personale  
 /notes → Visualizza le tue note  
 /edit_note [num] [testo] → Modifica una nota  
@@ -82,7 +81,6 @@ Scrivi liberamente per parlare con l'AI!
 /help → Show this guide  
 /model → Show available models  
 /setmodel [num] → Set a model  
-/chat [question] → Ask a question  
 /add_note [text] → Save a personal note  
 /notes → View your notes  
 /edit_note [num] [text] → Edit a note  
@@ -117,7 +115,6 @@ Write freely to chat with the AI!
 /help → Показать справку  
 /model → Показать доступные модели  
 /setmodel [num] → Выбрать модель  
-/chat [вопрос] → Задать вопрос  
 /add_note [текст] → Сохранить заметку  
 /notes → Посмотреть заметки  
 /edit_note [номер] [текст] → Изменить заметку  
