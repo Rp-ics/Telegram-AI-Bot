@@ -1,7 +1,7 @@
 # ===============================================
 # AI Telegram Bot with Groq Integration
-# Author: YourName
-# GitHub: https://github.com/yourusername/ai-telegram-bot 
+# Author: Rpx
+# GitHub: https://github.com/Rp-ics/Telegram-AI-Bot/
 # License: MIT
 # Multilingual support added (IT/EN/RU)
 # Advanced notes management
